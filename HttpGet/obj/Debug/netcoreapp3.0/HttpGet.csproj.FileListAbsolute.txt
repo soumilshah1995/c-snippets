@@ -1,0 +1,13 @@
+/Users/soumilshah/Desktop/c-snippets/HttpGet/bin/Debug/netcoreapp3.0/HttpGet
+/Users/soumilshah/Desktop/c-snippets/HttpGet/bin/Debug/netcoreapp3.0/HttpGet.deps.json
+/Users/soumilshah/Desktop/c-snippets/HttpGet/bin/Debug/netcoreapp3.0/HttpGet.runtimeconfig.json
+/Users/soumilshah/Desktop/c-snippets/HttpGet/bin/Debug/netcoreapp3.0/HttpGet.runtimeconfig.dev.json
+/Users/soumilshah/Desktop/c-snippets/HttpGet/bin/Debug/netcoreapp3.0/HttpGet.dll
+/Users/soumilshah/Desktop/c-snippets/HttpGet/bin/Debug/netcoreapp3.0/HttpGet.pdb
+/Users/soumilshah/Desktop/c-snippets/HttpGet/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/soumilshah/Desktop/c-snippets/HttpGet/obj/Debug/netcoreapp3.0/HttpGet.csprojAssemblyReference.cache
+/Users/soumilshah/Desktop/c-snippets/HttpGet/obj/Debug/netcoreapp3.0/HttpGet.AssemblyInfoInputs.cache
+/Users/soumilshah/Desktop/c-snippets/HttpGet/obj/Debug/netcoreapp3.0/HttpGet.AssemblyInfo.cs
+/Users/soumilshah/Desktop/c-snippets/HttpGet/obj/Debug/netcoreapp3.0/HttpGet.csproj.CopyComplete
+/Users/soumilshah/Desktop/c-snippets/HttpGet/obj/Debug/netcoreapp3.0/HttpGet.dll
+/Users/soumilshah/Desktop/c-snippets/HttpGet/obj/Debug/netcoreapp3.0/HttpGet.pdb
