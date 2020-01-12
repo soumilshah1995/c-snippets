@@ -1,0 +1,11 @@
+/Users/soumilshah/Desktop/c-snippets/pycsharp/bin/Debug/netcoreapp3.0/pycsharp
+/Users/soumilshah/Desktop/c-snippets/pycsharp/bin/Debug/netcoreapp3.0/pycsharp.deps.json
+/Users/soumilshah/Desktop/c-snippets/pycsharp/bin/Debug/netcoreapp3.0/pycsharp.runtimeconfig.json
+/Users/soumilshah/Desktop/c-snippets/pycsharp/bin/Debug/netcoreapp3.0/pycsharp.runtimeconfig.dev.json
+/Users/soumilshah/Desktop/c-snippets/pycsharp/bin/Debug/netcoreapp3.0/pycsharp.dll
+/Users/soumilshah/Desktop/c-snippets/pycsharp/bin/Debug/netcoreapp3.0/pycsharp.pdb
+/Users/soumilshah/Desktop/c-snippets/pycsharp/obj/Debug/netcoreapp3.0/pycsharp.csprojAssemblyReference.cache
+/Users/soumilshah/Desktop/c-snippets/pycsharp/obj/Debug/netcoreapp3.0/pycsharp.AssemblyInfoInputs.cache
+/Users/soumilshah/Desktop/c-snippets/pycsharp/obj/Debug/netcoreapp3.0/pycsharp.AssemblyInfo.cs
+/Users/soumilshah/Desktop/c-snippets/pycsharp/obj/Debug/netcoreapp3.0/pycsharp.dll
+/Users/soumilshah/Desktop/c-snippets/pycsharp/obj/Debug/netcoreapp3.0/pycsharp.pdb
