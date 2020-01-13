@@ -1,0 +1,11 @@
+/Users/soumilshah/Desktop/c-snippets/myos/bin/Debug/netcoreapp3.0/myos
+/Users/soumilshah/Desktop/c-snippets/myos/bin/Debug/netcoreapp3.0/myos.deps.json
+/Users/soumilshah/Desktop/c-snippets/myos/bin/Debug/netcoreapp3.0/myos.runtimeconfig.json
+/Users/soumilshah/Desktop/c-snippets/myos/bin/Debug/netcoreapp3.0/myos.runtimeconfig.dev.json
+/Users/soumilshah/Desktop/c-snippets/myos/bin/Debug/netcoreapp3.0/myos.dll
+/Users/soumilshah/Desktop/c-snippets/myos/bin/Debug/netcoreapp3.0/myos.pdb
+/Users/soumilshah/Desktop/c-snippets/myos/obj/Debug/netcoreapp3.0/myos.csprojAssemblyReference.cache
+/Users/soumilshah/Desktop/c-snippets/myos/obj/Debug/netcoreapp3.0/myos.AssemblyInfoInputs.cache
+/Users/soumilshah/Desktop/c-snippets/myos/obj/Debug/netcoreapp3.0/myos.AssemblyInfo.cs
+/Users/soumilshah/Desktop/c-snippets/myos/obj/Debug/netcoreapp3.0/myos.dll
+/Users/soumilshah/Desktop/c-snippets/myos/obj/Debug/netcoreapp3.0/myos.pdb
