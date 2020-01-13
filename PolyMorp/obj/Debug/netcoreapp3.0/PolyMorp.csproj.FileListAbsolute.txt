@@ -1,0 +1,11 @@
+/Users/soumilshah/Desktop/c-snippets/PolyMorp/obj/Debug/netcoreapp3.0/PolyMorp.csprojAssemblyReference.cache
+/Users/soumilshah/Desktop/c-snippets/PolyMorp/obj/Debug/netcoreapp3.0/PolyMorp.AssemblyInfoInputs.cache
+/Users/soumilshah/Desktop/c-snippets/PolyMorp/obj/Debug/netcoreapp3.0/PolyMorp.AssemblyInfo.cs
+/Users/soumilshah/Desktop/c-snippets/PolyMorp/bin/Debug/netcoreapp3.0/PolyMorp
+/Users/soumilshah/Desktop/c-snippets/PolyMorp/bin/Debug/netcoreapp3.0/PolyMorp.deps.json
+/Users/soumilshah/Desktop/c-snippets/PolyMorp/bin/Debug/netcoreapp3.0/PolyMorp.runtimeconfig.json
+/Users/soumilshah/Desktop/c-snippets/PolyMorp/bin/Debug/netcoreapp3.0/PolyMorp.runtimeconfig.dev.json
+/Users/soumilshah/Desktop/c-snippets/PolyMorp/bin/Debug/netcoreapp3.0/PolyMorp.dll
+/Users/soumilshah/Desktop/c-snippets/PolyMorp/bin/Debug/netcoreapp3.0/PolyMorp.pdb
+/Users/soumilshah/Desktop/c-snippets/PolyMorp/obj/Debug/netcoreapp3.0/PolyMorp.dll
+/Users/soumilshah/Desktop/c-snippets/PolyMorp/obj/Debug/netcoreapp3.0/PolyMorp.pdb
