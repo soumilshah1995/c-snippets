@@ -1,0 +1,13 @@
+/Users/soumilshah/Desktop/c-snippets/objtojson/bin/Debug/netcoreapp3.0/objtojson
+/Users/soumilshah/Desktop/c-snippets/objtojson/bin/Debug/netcoreapp3.0/objtojson.deps.json
+/Users/soumilshah/Desktop/c-snippets/objtojson/bin/Debug/netcoreapp3.0/objtojson.runtimeconfig.json
+/Users/soumilshah/Desktop/c-snippets/objtojson/bin/Debug/netcoreapp3.0/objtojson.runtimeconfig.dev.json
+/Users/soumilshah/Desktop/c-snippets/objtojson/bin/Debug/netcoreapp3.0/objtojson.dll
+/Users/soumilshah/Desktop/c-snippets/objtojson/bin/Debug/netcoreapp3.0/objtojson.pdb
+/Users/soumilshah/Desktop/c-snippets/objtojson/obj/Debug/netcoreapp3.0/objtojson.csprojAssemblyReference.cache
+/Users/soumilshah/Desktop/c-snippets/objtojson/obj/Debug/netcoreapp3.0/objtojson.AssemblyInfoInputs.cache
+/Users/soumilshah/Desktop/c-snippets/objtojson/obj/Debug/netcoreapp3.0/objtojson.AssemblyInfo.cs
+/Users/soumilshah/Desktop/c-snippets/objtojson/obj/Debug/netcoreapp3.0/objtojson.dll
+/Users/soumilshah/Desktop/c-snippets/objtojson/obj/Debug/netcoreapp3.0/objtojson.pdb
+/Users/soumilshah/Desktop/c-snippets/objtojson/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/soumilshah/Desktop/c-snippets/objtojson/obj/Debug/netcoreapp3.0/objtojson.csproj.CopyComplete
