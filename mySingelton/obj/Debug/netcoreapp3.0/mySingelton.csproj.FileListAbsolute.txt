@@ -1,0 +1,11 @@
+/Users/soumilshah/Desktop/c-snippets/mySingelton/bin/Debug/netcoreapp3.0/mySingelton
+/Users/soumilshah/Desktop/c-snippets/mySingelton/bin/Debug/netcoreapp3.0/mySingelton.deps.json
+/Users/soumilshah/Desktop/c-snippets/mySingelton/bin/Debug/netcoreapp3.0/mySingelton.runtimeconfig.json
+/Users/soumilshah/Desktop/c-snippets/mySingelton/bin/Debug/netcoreapp3.0/mySingelton.runtimeconfig.dev.json
+/Users/soumilshah/Desktop/c-snippets/mySingelton/bin/Debug/netcoreapp3.0/mySingelton.dll
+/Users/soumilshah/Desktop/c-snippets/mySingelton/bin/Debug/netcoreapp3.0/mySingelton.pdb
+/Users/soumilshah/Desktop/c-snippets/mySingelton/obj/Debug/netcoreapp3.0/mySingelton.csprojAssemblyReference.cache
+/Users/soumilshah/Desktop/c-snippets/mySingelton/obj/Debug/netcoreapp3.0/mySingelton.AssemblyInfoInputs.cache
+/Users/soumilshah/Desktop/c-snippets/mySingelton/obj/Debug/netcoreapp3.0/mySingelton.AssemblyInfo.cs
+/Users/soumilshah/Desktop/c-snippets/mySingelton/obj/Debug/netcoreapp3.0/mySingelton.dll
+/Users/soumilshah/Desktop/c-snippets/mySingelton/obj/Debug/netcoreapp3.0/mySingelton.pdb
