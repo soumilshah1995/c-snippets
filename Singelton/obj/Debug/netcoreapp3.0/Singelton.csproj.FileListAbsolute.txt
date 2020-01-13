@@ -1,0 +1,11 @@
+/Users/soumilshah/Desktop/c-snippets/Singelton/bin/Debug/netcoreapp3.0/Singelton
+/Users/soumilshah/Desktop/c-snippets/Singelton/bin/Debug/netcoreapp3.0/Singelton.deps.json
+/Users/soumilshah/Desktop/c-snippets/Singelton/bin/Debug/netcoreapp3.0/Singelton.runtimeconfig.json
+/Users/soumilshah/Desktop/c-snippets/Singelton/bin/Debug/netcoreapp3.0/Singelton.runtimeconfig.dev.json
+/Users/soumilshah/Desktop/c-snippets/Singelton/bin/Debug/netcoreapp3.0/Singelton.dll
+/Users/soumilshah/Desktop/c-snippets/Singelton/bin/Debug/netcoreapp3.0/Singelton.pdb
+/Users/soumilshah/Desktop/c-snippets/Singelton/obj/Debug/netcoreapp3.0/Singelton.csprojAssemblyReference.cache
+/Users/soumilshah/Desktop/c-snippets/Singelton/obj/Debug/netcoreapp3.0/Singelton.AssemblyInfoInputs.cache
+/Users/soumilshah/Desktop/c-snippets/Singelton/obj/Debug/netcoreapp3.0/Singelton.AssemblyInfo.cs
+/Users/soumilshah/Desktop/c-snippets/Singelton/obj/Debug/netcoreapp3.0/Singelton.dll
+/Users/soumilshah/Desktop/c-snippets/Singelton/obj/Debug/netcoreapp3.0/Singelton.pdb
