@@ -10,5 +10,5 @@
 
 * A simple c# Logger : [Code](https://github.com/soumilshah1995/c-snippets/tree/master/myos) | [Video](https://www.youtube.com/watch?v=z3hQCrAmq4Q&list=PLL2hlSFBmWwzx-g0NSxvXS3Uae6FRBIJy)
 
-
+* Inheritance How to Invoke Base class Constructor : [Code](https://github.com/soumilshah1995/c-snippets/tree/master/Singelton) | [Video](https://www.youtube.com/watch?v=y2AuZCa8zmU&list=PLL2hlSFBmWwzx-g0NSxvXS3Uae6FRBIJy&index=4)
 
