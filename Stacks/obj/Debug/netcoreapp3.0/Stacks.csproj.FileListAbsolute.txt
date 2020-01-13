@@ -1,0 +1,11 @@
+/Users/soumilshah/Desktop/c-snippets/Stacks/obj/Debug/netcoreapp3.0/Stacks.csprojAssemblyReference.cache
+/Users/soumilshah/Desktop/c-snippets/Stacks/obj/Debug/netcoreapp3.0/Stacks.AssemblyInfoInputs.cache
+/Users/soumilshah/Desktop/c-snippets/Stacks/obj/Debug/netcoreapp3.0/Stacks.AssemblyInfo.cs
+/Users/soumilshah/Desktop/c-snippets/Stacks/bin/Debug/netcoreapp3.0/Stacks
+/Users/soumilshah/Desktop/c-snippets/Stacks/bin/Debug/netcoreapp3.0/Stacks.deps.json
+/Users/soumilshah/Desktop/c-snippets/Stacks/bin/Debug/netcoreapp3.0/Stacks.runtimeconfig.json
+/Users/soumilshah/Desktop/c-snippets/Stacks/bin/Debug/netcoreapp3.0/Stacks.runtimeconfig.dev.json
+/Users/soumilshah/Desktop/c-snippets/Stacks/bin/Debug/netcoreapp3.0/Stacks.dll
+/Users/soumilshah/Desktop/c-snippets/Stacks/bin/Debug/netcoreapp3.0/Stacks.pdb
+/Users/soumilshah/Desktop/c-snippets/Stacks/obj/Debug/netcoreapp3.0/Stacks.dll
+/Users/soumilshah/Desktop/c-snippets/Stacks/obj/Debug/netcoreapp3.0/Stacks.pdb
