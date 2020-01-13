@@ -15,3 +15,5 @@
 
 * Singelton Design Pattern : [Code](https://github.com/soumilshah1995/c-snippets/tree/master/mySingelton)
 
+* PolyMorphism Code Example : [code](https://github.com/soumilshah1995/c-snippets/tree/master/PolyMorp)
+
